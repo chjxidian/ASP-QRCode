@@ -1,0 +1,24 @@
+E:\projects\visual studio 2010\Projects\WebService\QRCode\bin\QRCode.dll
+E:\projects\visual studio 2010\Projects\WebService\QRCode\bin\QRCode.pdb
+E:\projects\visual studio 2010\Projects\WebService\QRCode\bin\QuickMark.dll
+E:\projects\visual studio 2010\Projects\WebService\QRCode\bin\ThoughtWorks.QRCode.dll
+E:\projects\visual studio 2010\Projects\WebService\QRCode\obj\Debug\ResolveAssemblyReference.cache
+E:\projects\visual studio 2010\Projects\WebService\QRCode\obj\Debug\QRCode.dll
+E:\projects\visual studio 2010\Projects\WebService\QRCode\obj\Debug\QRCode.pdb
+E:\projects\visual studio 2010\Projects\QRCode\bin\QRCode.dll
+E:\projects\visual studio 2010\Projects\QRCode\bin\QRCode.pdb
+E:\projects\visual studio 2010\Projects\QRCode\obj\Debug\ResolveAssemblyReference.cache
+E:\projects\visual studio 2010\Projects\QRCode\obj\Debug\QRCode.dll
+E:\projects\visual studio 2010\Projects\QRCode\obj\Debug\QRCode.pdb
+E:\MIS-INFO-V2.20\Frontend\QRCode\bin\QRCode.dll.config
+E:\MIS-INFO-V2.20\Frontend\QRCode\bin\QRCode.dll
+E:\MIS-INFO-V2.20\Frontend\QRCode\bin\QRCode.pdb
+E:\MIS-INFO-V2.20\Frontend\QRCode\obj\Debug\QRCode.csprojResolveAssemblyReference.cache
+E:\MIS-INFO-V2.20\Frontend\QRCode\obj\Debug\QRCode.dll
+E:\MIS-INFO-V2.20\Frontend\QRCode\obj\Debug\QRCode.pdb
+C:\Users\chenhj\Desktop\备份代码\Web\QRCode\bin\QRCode.dll.config
+C:\Users\chenhj\Desktop\备份代码\Web\QRCode\bin\QRCode.dll
+C:\Users\chenhj\Desktop\备份代码\Web\QRCode\bin\QRCode.pdb
+C:\Users\chenhj\Desktop\备份代码\Web\QRCode\obj\Debug\QRCode.csprojResolveAssemblyReference.cache
+C:\Users\chenhj\Desktop\备份代码\Web\QRCode\obj\Debug\QRCode.dll
+C:\Users\chenhj\Desktop\备份代码\Web\QRCode\obj\Debug\QRCode.pdb
